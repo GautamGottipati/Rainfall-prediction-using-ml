@@ -1,2 +1,2 @@
 # Rainfall-prediction-using-ml
-Rainfall prediction using R ,I have also tried in python using arima model
+Rainfall prediction using ml using R language .
